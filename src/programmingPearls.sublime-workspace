@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/go.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gprasant/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/gprasant/Dropbox/powershell_scripts/blogReady.ps1",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GsShell.sublime-build",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/GoSublime/gsshell.py",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/src/prog_pearls",
+		"/C/Projects/GoodsOut/BuildConfigs/default.ps1",
+		"/C/Projects/GoodsOut/BuildConfigs/qa.ps1",
+		"/C/Projects/GoodsOut/BuildConfigs/test.ps1",
+		"/C/Users/gprasant/Documents/Visual Studio 2012/Projects/SampleService/SampleService/bin/Debug/SampleService.InstallLog",
+		"/C/Users/gprasant/Documents/Visual Studio 2012/Projects/SampleService/SampleService/bin/Debug/InstallUtil.InstallLog",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/src/go/quicksort.go",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/User/go.sublime-build",
+		"/C/Users/gprasant/Documents/Visual Studio 2012/Projects/SampleService/SampleService/bin/Debug/*.InstallLog",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/gprasant/Dropbox/powershell_scripts/powershell_color_prefs.txt",
+		"/C/Projects/GoodsOut/Source/Web/Web.csproj",
+		"/C/Users/gprasant/AppData/Local/GitHub/shell.ps1",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/src/go/binarySearch.go",
+		"/C/Projects/GoodsOut/Source/Abcam.Logistics.GoodsOut.sln",
+		"/C/Projects/GoodsOut/Source/Abcam.Logistics.GoodsOut.v11.suo",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/src/go/quicksort.cs",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/csharp/BinarySearch.cs",
+		"/C/Users/gprasant/Documents/GitHub/lib Cinder/cinder_0.8.4_vc2010/src/AntTweakBar/TwBar.cpp",
+		"/C/Users/gprasant/Documents/GitHub/vigra/CMakeLists.txt",
+		"/C/Users/gprasant/Documents/GitHub/vigra/src/impex/CMakeLists.txt",
+		"/C/Users/gprasant/SkyDrive/Modern C++/src/1.cpp",
+		"/C/Users/gprasant/SkyDrive/Modern C++/src/go/1.go",
+		"/C/Users/gprasant/SkyDrive/Modern C++/src/go1/go1.go",
+		"/C/Users/gprasant/SkyDrive/Modern C++/src/go/adv/file.go",
+		"/C/Users/gprasant/css/test.css",
+		"/C/Projects/Abcam Logistics/Database/Migrations/0041 GoodsOut Add Type column to Picklists.sql",
+		"/C/Users/gprasant/Documents/GitHub/programming_pearls/README.md",
+		"/C/Users/gprasant/Downloads/iCal_2012-12-11-Navigating-NoSQL-Landscape.ics",
+		"/C/Users/gprasant/Downloads/OrderManifestDocuments_new.xml",
+		"/C/Users/gprasant/.ssh/github_rsa.pub",
+		"/C/My Web Sites/inarc/www.in-arc.com/contact.htm",
+		"/C/Users/gprasant/Desktop/Interview_with_TWer.txt",
+		"/C/Users/gprasant/Documents/GitHub/teamCity/psake-build.ps1",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/gprasant/Desktop/NHibernate immersion/MovieRental/MovieRental.Tests/bin/Debug/nhibernate-mapping.xsd",
+		"/C/Users/gprasant/code/fluent-nhibernate/src/Examples.FirstProject/bin/x86/Debug/Examples.FirstProject.exe.config",
+		"/C/Users/gprasant/Desktop/Abcam Bootcamp/final slides/asp mvc",
+		"/C/Users/gprasant/Desktop/Abcam Bootcamp/Day 1.txt",
+		"/C/Users/gprasant/Desktop/Abcam Bootcamp/final slides/SOLIDCode/.gitignore",
+		"/C/Users/gprasant/Desktop/Abcam Bootcamp/final slides/SOLIDCode/SOLIDCode.sln",
+		"/C/Users/gprasant/Desktop/Abcam Bootcamp/final slides/SOLIDCode/SOLIDCode/SOLIDCode.csproj",
+		"/C/Users/gprasant/Dropbox/Agile Development Practices/readme.txt",
+		"/C/Users/gprasant/code/Reviews/Jitin Gojia/review.txt",
+		"/C/Users/gprasant/Documents/GitHub/Jeevan/SQL/migration.sql",
+		"/C/Program Files (x86)/Microsoft ASP.NET/ASP.NET MVC 4/Visual Studio 2012/Snippets/HTML/1033/ASP.NET MVC 4/actionlink.snippet",
+		"/C/Program Files (x86)/Microsoft ASP.NET/ASP.NET MVC 4/Visual Studio 2012/Snippets/HTML/1033/ASP.NET MVC 4/editorforcs.snippet",
+		"/C/inetpub/wwwroot/Jeevan/Web.config",
+		"/C/Users/gprasant/code/Reviews/Javed/GallaxyTransactions/Review.txt",
+		"/C/Users/gprasant/code/Reviews/Problems/Guide to Galaxy.txt",
+		"/C/Users/gprasant/code/Reviews/kamal Joshi/GameOfLife/GameOfLife/CellState.cs",
+		"/C/Users/gprasant/code/Reviews/Problems/Conference_Mgmt.txt",
+		"/C/Users/gprasant/code/Reviews/Problems/SalesTax.txt",
+		"/C/Users/gprasant/code/Reviews/kamal Joshi/Review.txt",
+		"/C/Users/gprasant/code/Reviews/Problems/GameOfLife.txt",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gprasant/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"cmake_minimum",
+			";",
+			"solutions",
+			"info@in-arc.com ",
+			"Feedback Sent successfully\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GsDepends-output":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"impex/cma",
+				"src/impex/CMakeLists.txt"
+			],
+			[
+				"cells",
+				"GameOfLife/CellState.cs"
+			],
+			[
+				"game",
+				"/C/Users/gprasant/code/Reviews/Problems/GameOfLife.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
