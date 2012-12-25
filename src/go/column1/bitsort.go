@@ -8,15 +8,14 @@ package main
 
 import "fmt"
 
-var N int = 10
+var N int = 100000
 
 func main() {
 	var num int
 	bitmap := make([]bool, N)
 
 	for i := 0; i < N; i++ {
-		fmt.Printf("Debug: i : %d ; N : %d \n", i, N)
-		fmt.Scanf("%d", &num)
+		fmt.Scanf("%d\n", &num)
 		bitmap[num] = true
 	}
 
