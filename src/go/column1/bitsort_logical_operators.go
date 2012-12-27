@@ -7,7 +7,7 @@ package main
 
 import "fmt"
 
-var N int = 8
+var N int = 8 // for this program to work, N should be a power of 2
 var bitmap = make([]int32, N/32+1)
 
 var WORD_LENGTH int32 = 32
