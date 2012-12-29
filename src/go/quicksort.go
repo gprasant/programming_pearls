@@ -9,9 +9,7 @@ func main() {
 }
 
 func swap(slice []int, idx1 int, idx2 int) {
-	t := slice[idx1]
-	slice[idx1] = slice[idx2]
-	slice[idx2] = t
+	slice[idx1], slice[idx2] = slice[idx2], slice[idx1]
 }
 
 func quickSort(slice []int, l int, u int) {
